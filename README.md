@@ -1,4 +1,4 @@
-# Johna Shivachi Omondi Portfolio
+# Johna Shivachi Omondi 
 
 Welcome to my GitHub portfolio! This repository showcases my projects and provides an overview of my skills and experiences.
 
