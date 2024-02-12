@@ -40,7 +40,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and provid
 
   ### Project 8: Wordpress Website
 - Description: This is a website I developed using wordpress and is currently online. The website has been added in google search console and can be found in google search engine
-- Website Link: [Project 8](www.drugfreekenya.org)
+- Website Link: [Project 8](https://www.drugfreekenya.org)
 
   ### Project 9: AppSheet Application- [Traquest]
 - Description: This is an application used to request for approvals for taking a business trip associated to the organisation.
