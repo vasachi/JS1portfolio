@@ -56,6 +56,14 @@ Welcome to my GitHub portfolio! This repository showcases my projects and provid
   is assigned. This application is currently on progress.
 - Application Link: [Project 10](https://www.appsheet.com/start/342ea110-94ff-45f2-bc87-0995bbb39705)  
 
+  ### Project 11: Vehicle and Device Checkin System.
+- Description:The Vehicle and Laptop Checking System is designed to simplify the process of checking in devices as per the Bring Your Own Device (BYOD) policy within different organizations. This system allows individuals to register their devices with the system admin or security office, after which QR codes are generated and sent to the individuals. When individuals arrive, they simply display their QR codes, which are then scanned at the gate by a camera to signify that their devices and vehicles have been signed in. The system also generates separate QR codes for devices and vehicles, as well as a general QR code containing information for both devices and the vehicle, providing the flexibility for individuals to choose what they need to check in on any specific day.
+
+This system was originally developed for the Kenya Power and Lighting company (KPLC) Central Rift Office Nakuru E-House, and received alot of contributions from the ICT attchees of 
+January-March 2024.
+
+- GitHub Link: [Project 11](https://github.com/vasachi/E-house-project)
+
 ## Skills And Abilities.
 Application development using Google Appsheet.
 Web development using HTML5, CSS, JavaScript and PHP.
