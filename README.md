@@ -59,7 +59,7 @@ January-March 2024.
 
   ### Project 10: Business Cards Designs
 - Description: This repository is dedicated to showcasing my various business card designs and is meant to make me stand out in the field of graphics and design.
-- GitHub Link: [Project 6](https://github.com/vasachi/Business-Cards)
+- GitHub Link: [Project 10](https://github.com/vasachi/Business-Cards)
 
   ### Project 11: Invitation Cards Designs
 - Description: This repository is dedicated to showcasing my various invitation card designs and is meant to make me stand out in the field of graphics and design.
