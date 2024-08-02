@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and provid
 - Description: This is a website I developed using wordpress and is currently online.The website was developed in four weeks and was depployed on February 2024. The website is mainly built on wordpress and utilises various wordpress plugins. The website also has customed HTML, CSS and javascript on top of the original theme. I currently manage this website.
 - Website Link: [Project 1](https://www.drugfreekenya.org)
 
-### Project 2: Vehicle and Device Checkin System.
+### Project 2: Coffee Shop Management System.
 - Description:The Coffee Shop Management System is a web-based application built using HTML, CSS, and JavaScript, with the incorporation of Bootstrap elements to enhance the presentation and user experience. This system is designed to streamline the management and operation of a coffee shop, providing functionalities for various tasks such as order management, inventory tracking, and customer interaction.
 
 Integration with Laravel: The system is designed to be seamlessly integrated into Laravel applications as templates, allowing for easy incorporation into existing web development projects utilizing the Laravel framework.
