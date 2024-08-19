@@ -27,7 +27,7 @@ Customer Interaction: Incorporates features for engaging with customers, such as
 This system was originally developed for the Kenya Power and Lighting company (KPLC) Central Rift Office Nakuru E-House, and received alot of contributions from the ICT attchees of 
 January-March 2024.
 
-- GitHub Link: [Project 3](https://github.com/vasachi/E-house-project)
+- GitHub Link: [Project 3](https://github.com/vasachi/Vehicle-and-Device-Checkin-System)
 
 ### Project 4: Turkey Farm Management System
 - Description: This management system is tailored to be used in the management of turkeys in a farm, its adopted from the poultry management system.
